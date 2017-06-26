@@ -125,7 +125,7 @@ Screen sizes less than 500px wide,
 the following styles will be applied.
 -----------------------------------*/
 @media (max-width:499px) {
-  login {
+  .login {
     width: 300px;
     height: 297px;
     background-color: #eff0f2;
